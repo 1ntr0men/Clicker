@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="money">$ 0</string>
+    <string name="buy_question">Do you want to buy?</string>
+    <string name="yes">Yes</string>
+    <string name="Cancel">Cancel</string>
+    <string name="store">store</string>
+
+    <string name="drill_cpa">+10$ per second</string>
+    <string name="drill_price">100$</string>
+
+    <string name="drill_machine_cpa">+100$ per second</string>
+    <string name="drill_machine_price">2000$</string>
+
+    <string name="big_drill_machine_cpa">+1000$ per second</string>
+    <string name="big_drill_machine_price">100000$</string>
+</resources>
